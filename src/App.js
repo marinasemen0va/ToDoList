@@ -9,7 +9,7 @@
 
 // imports
 import React, {Component} from 'react';
-import {BrowserRouter as Router, Route} from 'react-router-dom';
+import {HashRouter as Router, Route} from 'react-router-dom';
 import Todos from './components/Todos';
 import './App.css';
 import Header from './components/layout/Header'
